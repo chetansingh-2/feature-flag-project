@@ -1,0 +1,17 @@
+{
+  "name": "feature-flag-sdk",
+  "version": "1.0.0",
+  "description": "SDK for feature flag management",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "feature-flags",
+    "toggles",
+    "sdk"
+  ],
+  "author": "Chetan Singh",
+  "license": "MIT"
+}
